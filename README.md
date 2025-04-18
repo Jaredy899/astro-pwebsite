@@ -1,5 +1,3 @@
-# Jared Cervantes - Personal Website
-
 A simple personal website built with Astro.
 
 ## Development
@@ -19,5 +17,4 @@ pnpm build
 
 - Responsive design
 - Dark/light mode toggle
-- SVG-based JC logo
-- Social media links
+- SVG-based PC logo
