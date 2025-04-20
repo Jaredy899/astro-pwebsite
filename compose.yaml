@@ -1,0 +1,7 @@
+services:
+  pwebsite:
+    container_name: pwebsite
+    image: ghcr.io/jaredy899/astro-pwebsite:latest
+    ports:
+      - "3000:4321" 
+    restart: unless-stopped
